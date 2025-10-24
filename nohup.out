@@ -1,0 +1,64 @@
+  2025-09-17 12:18:03 App\Events\MessageSent ......................... RUNNING
+  2025-09-17 12:18:04 App\Events\MessageSent ................... 529.41ms DONE
+  2025-09-17 12:18:04 App\Events\MessageSent ......................... RUNNING
+  2025-09-17 12:18:04 App\Events\MessageSent ................... 132.84ms DONE
+  2025-09-17 12:18:04 App\Events\MessageSent ......................... RUNNING
+  2025-09-17 12:18:04 App\Events\MessageSent ................... 136.26ms DONE
+  2025-09-17 12:18:04 App\Events\MessageSent ......................... RUNNING
+  2025-09-17 12:18:04 App\Events\MessageSent ................... 131.93ms DONE
+  2025-09-17 12:18:10 App\Events\MessageSent ......................... RUNNING
+  2025-09-17 12:18:10 App\Events\MessageSent ................... 121.65ms DONE
+  2025-09-17 12:18:22 App\Events\MessageSent ......................... RUNNING
+  2025-09-17 12:18:22 App\Events\MessageSent ................... 121.09ms DONE
+  2025-09-18 07:45:39 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 07:45:39 App\Events\MessageSent ................... 471.86ms DONE
+  2025-09-18 07:46:21 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 07:46:21 App\Events\MessageSent ................... 120.99ms DONE
+  2025-09-18 08:57:12 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 08:57:12 App\Events\MessageSent ................... 479.97ms DONE
+  2025-09-18 08:57:57 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 08:57:58 App\Events\MessageSent ................... 127.51ms DONE
+  2025-09-18 08:58:10 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 08:58:10 App\Events\MessageSent ................... 119.95ms DONE
+  2025-09-18 09:01:01 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 09:01:02 App\Events\MessageSent ................... 605.01ms DONE
+  2025-09-18 09:01:47 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 09:01:47 App\Events\MessageSent ................... 124.17ms DONE
+  2025-09-18 09:02:32 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 09:02:32 App\Events\MessageSent ................... 123.35ms DONE
+  2025-09-18 09:29:55 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 09:29:56 App\Events\MessageSent ................... 471.82ms DONE
+  2025-09-18 10:57:54 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 10:57:54 App\Events\MessageSent ................... 463.56ms DONE
+  2025-09-18 11:03:00 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 11:03:01 App\Events\MessageSent ................... 501.08ms DONE
+  2025-09-18 11:32:09 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 11:32:10 App\Events\MessageSent ................... 473.55ms DONE
+  2025-09-18 11:40:55 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 11:40:56 App\Events\MessageSent ................... 467.60ms DONE
+  2025-09-18 11:45:17 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 11:45:18 App\Events\MessageSent ................... 475.42ms DONE
+  2025-09-18 11:48:24 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 11:48:24 App\Events\MessageSent ................... 465.29ms DONE
+  2025-09-18 12:20:27 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 12:20:27 App\Events\MessageSent ................... 474.59ms DONE
+  2025-09-18 12:52:30 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 12:52:31 App\Events\MessageSent ................... 469.37ms DONE
+  2025-09-18 14:01:33 App\Events\MessageSent ......................... RUNNING
+  2025-09-18 14:01:33 App\Events\MessageSent ................... 471.39ms DONE
+  2025-09-19 07:11:09 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:11:10 App\Events\MessageSent ................... 472.12ms DONE
+  2025-09-19 07:16:19 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:16:19 App\Events\MessageSent ................... 470.04ms DONE
+  2025-09-19 07:18:56 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:18:56 App\Events\MessageSent ................... 463.87ms DONE
+  2025-09-19 07:19:53 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:19:54 App\Events\MessageSent ................... 358.01ms DONE
+  2025-09-19 07:20:06 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:20:06 App\Events\MessageSent ................... 126.46ms DONE
+  2025-09-19 07:25:30 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:25:30 App\Events\MessageSent ................... 465.04ms DONE
+  2025-09-19 07:30:55 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:30:55 App\Events\MessageSent ................... 468.19ms DONE
+  2025-09-19 07:31:07 App\Events\MessageSent ......................... RUNNING
+  2025-09-19 07:31:07 App\Events\MessageSent ................... 119.86ms DONE
